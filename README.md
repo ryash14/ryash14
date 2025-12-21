@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Yashwanth Reddy Reddygari, a Computer Science undergraduate with a strong interest in AI systems and full-stack development. I enjoy building scalable, secure, and practical applications, especially those involving LLMs, RAG pipelines, and data-driven platforms.<br><br>I’ve worked on offline AI systems for defense environments, interactive web platforms, and intelligent learning tools. I value clean architecture, performance, and real-world impact, and I’m always eager to learn and build better systems.<br><br>📍 Hyderabad, India | 🌐 yashwanth.live
+I’m Yashwanth Reddy Reddygari, a Computer Science undergraduate with a strong interest in AI systems and full-stack development. I enjoy building scalable, secure, and practical applications, especially those involving LLMs, RAG pipelines, and data-driven platforms.<br><br>I’ve worked on offline AI systems for defense environments, interactive web platforms, and intelligent learning tools. I value clean architecture, performance, and real-world impact, and I’m always eager to learn and build better systems.<br><br>📍 Hyderabad, India | <a href="https://yashwanth.live">🌐 yashwanth.live</a>
 
 
 ## 🌐 Socials:
