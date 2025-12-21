@@ -3,23 +3,25 @@ I’m Yashwanth Reddy Reddygari, a Computer Science undergraduate with a strong 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:14px;">
-  <a href="https://github.com/ryash14" target="blank" style="text-decoration:none; display:inline-flex;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yashredd/" target="blank" style="text-decoration:none; display:inline-flex;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/_yashwanth_15" target="blank" style="text-decoration:none; display:inline-flex;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/Yashwanth1408" target="blank" style="text-decoration:none; display:inline-flex;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-  <a href="https://discord.gg/hgbEdC3kJ" target="blank" style="text-decoration:none; display:inline-flex;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-  </a>
+<p align="left">
+<a href="https://github.com/ryash14" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+       height="30" width="40" style="margin-right:12px;" />
+</a><a href="https://www.linkedin.com/in/yashredd/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       height="30" width="40" style="margin-right:12px;" />
+</a><a href="https://instagram.com/_yashwanth_15" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       height="30" width="40" style="margin-right:12px;" />
+</a><a href="https://leetcode.com/Yashwanth1408" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+       height="30" width="40" style="margin-right:12px;" />
+</a><a href="https://discord.gg/hgbEdC3kJ" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+       height="30" width="40" />
+</a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
