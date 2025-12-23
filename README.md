@@ -1,12 +1,83 @@
-# 💫 About Me:
-I’m Yashwanth Reddy Reddygari, a Computer Science undergraduate with a strong interest in AI systems and full-stack development. I enjoy building scalable, secure, and practical applications, especially those involving LLMs, RAG pipelines, and data-driven platforms.<br><br>I’ve worked on offline AI systems for defense environments, interactive web platforms, and intelligent learning tools. I value clean architecture, performance, and real-world impact, and I’m always eager to learn and build better systems.<br><br>📍 Hyderabad, India | 🌐 <a href="https://yashwanth.live" style="text-decoration: none;"> www.yashwanth.live</a>
+<div align="center" style="padding: 20px 0;">
 
+  <h1 style="margin-bottom: 6px;">Yashwanth Reddy Reddygari</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hgbEdC3kJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashwanth_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashredd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryashwanthreddygari@gmail.com) 
+  <p style="margin-top: 0; font-size: 16px; color: #555;">
+    Computer Science Undergraduate · AI Systems · Full-Stack Development
+  </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <p style="font-size: 14px; color: #666; max-width: 720px;">
+    I build scalable, secure, and practical software systems with a strong focus on
+    AI, LLM-based applications, RAG pipelines, and data-driven platforms.
+    Experienced in offline AI systems, interactive web applications,
+    and performance-oriented architectures.
+  </p>
 
+  <p style="margin-top: 12px;">
+    📍 Hyderabad, India · 🌐 
+    <a href="https://yashwanth.live" target="_blank">yashwanth.live</a>
+  </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<hr/>
+
+<h2>🌐 Connect</h2>
+
+<p>
+  <a href="https://linkedin.com/in/yashredd">LinkedIn</a> ·
+  <a href="https://instagram.com/_yashwanth_15">Instagram</a> ·
+  <a href="https://discord.gg/hgbEdC3kJ">Discord</a> ·
+  <a href="mailto:ryashwanthreddygari@gmail.com">Email</a>
+</p>
+
+<hr/>
+
+<h2>💻 Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  C · Java · Python · JavaScript · TypeScript · PHP · R
+</p>
+
+<h3>Web & Frontend</h3>
+<p>
+  HTML · CSS · React · Next.js · Vite · Tailwind CSS · Bootstrap · Chart.js · Streamlit
+</p>
+
+<h3>Backend & APIs</h3>
+<p>
+  Node.js · Express.js · FastAPI · Flask · Apache Tomcat
+</p>
+
+<h3>Databases & Cloud</h3>
+<p>
+  MySQL · PostgreSQL · MongoDB · Firebase · Google Cloud
+</p>
+
+<h3>AI / Data Science</h3>
+<p>
+  NumPy · Pandas · Matplotlib · Plotly · SciPy · scikit-learn · Anaconda
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+  Git · GitHub · Docker · Vercel · Netlify · Render · Windows Terminal · PowerShell
+</p>
+
+<hr/>
+
+<h2>🚀 What I Care About</h2>
+
+<ul>
+  <li>Clean architecture & maintainable systems</li>
+  <li>Performance, scalability, and security</li>
+  <li>Offline & edge-ready AI systems</li>
+  <li>Real-world impact over demos</li>
+</ul>
+
+<hr/>
+
+<p align="center" style="font-size: 13px; color: #777;">
+  Always learning · Always building
+</p>
