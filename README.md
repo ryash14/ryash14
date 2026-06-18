@@ -1,9 +1,3 @@
-<div align="center">
-  <sub>YASHWANTH REDDY REDDYGARI</sub>
-</div>
-
-<br>
-
 # The most interesting thing on my resume isn't a framework.
 # It's that I’ve worked on AI systems that run without internet access — by design.
 
@@ -19,8 +13,6 @@ That constraint shaped how I think about engineering — reliability under restr
 
 <div align="center">
 
-[![Open to work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20opportunities-2d6a4f?style=flat&labelColor=2d6a4f&color=d8f3dc)](https://yashwanth.live)
-&nbsp;
 [yashwanth.live](https://yashwanth.live) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yashredd) &nbsp;·&nbsp; [ryashwanthreddygari@gmail.com](mailto:ryashwanthreddygari@gmail.com)
 
 </div>
