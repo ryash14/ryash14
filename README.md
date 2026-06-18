@@ -1,7 +1,34 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
-  <img src="./header.svg" width="100%" alt="Yashwanth Reddy Reddygari">
+<svg width="900" height="175" viewBox="0 0 900 175" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="175" fill="#0F0F0F" rx="6"/>
+  <rect x="0.5" y="0.5" width="899" height="174" rx="5.5" fill="none" stroke="#1E1E1E" stroke-width="1"/>
+
+  <rect x="44" y="46" width="2" height="64" fill="#2E2E2E"/>
+
+  <text
+    x="62" y="90"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="38" font-weight="500" letter-spacing="-0.8"
+    fill="#D8D4CE">
+    Yashwanth Reddy Reddygari
+  </text>
+
+  <text
+    x="856" y="52"
+    font-family="'SF Mono', 'Fira Code', 'Courier New', monospace"
+    font-size="10" fill="#2C2C2C" text-anchor="end" letter-spacing="2.5">
+    HYDERABAD · IN
+  </text>
+
+  <line x1="62" y1="109" x2="430" y2="109" stroke="#1D1D1D" stroke-width="1"/>
+
+  <text
+    x="62" y="138"
+    font-family="'SF Mono', 'Fira Code', 'Courier New', monospace"
+    font-size="11" fill="#4E4E4E" letter-spacing="2.5">
+    APPLIED AI  ·  SCIENTIFIC COMPUTING  ·  CONSTRAINED INFRASTRUCTURE
+  </text>
+</svg>
 </picture>
 
 <br>
