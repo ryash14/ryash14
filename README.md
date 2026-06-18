@@ -1,124 +1,110 @@
-````md
 <div align="center">
-
-# Yashwanth Reddy Reddygari
-
-Building at the intersection of AI, Earth data, and software systems
+  <sub>YASHWANTH REDDY REDDYGARI</sub>
+</div>
 
 <br>
 
-<a href="https://yashwanth.live">Portfolio</a> ·
-<a href="https://linkedin.com/in/yashredd">LinkedIn</a> ·
-<a href="mailto:ryashwanthreddygari@gmail.com">Email</a>
+# The most interesting thing on my resume isn't a framework.
+# It's that I’ve worked on AI systems that run without internet access — by design.
+
+<br>
+
+An air-gapped retrieval system built inside a DRDO (DLRL) environment. No external APIs, no cloud inference, no online dependencies. Everything — models, embeddings, and retrieval — runs locally.
+
+The system only has one rule: if it cannot work in isolation, it does not work at all.
+
+That constraint shaped how I think about engineering — reliability under restriction matters more than flexibility in ideal setups.
+
+<br>
+
+<div align="center">
+
+[![Open to work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20opportunities-2d6a4f?style=flat&labelColor=2d6a4f&color=d8f3dc)](https://yashwanth.live)
+&nbsp;
+[yashwanth.live](https://yashwanth.live) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yashredd) &nbsp;·&nbsp; [ryashwanthreddygari@gmail.com](mailto:ryashwanthreddygari@gmail.com)
 
 </div>
 
 ---
 
-## Focus
+## Research
 
-AI systems, geospatial intelligence, and large-scale scientific data problems.
-
-Work often sits at the intersection of:
-- retrieval systems
-- satellite / ocean observations
-- applied machine learning
-- production software engineering
+| | |
+|---|---|
+| **ISRO – NRSC** `Research Intern · 2025–2026` | **DLRL – DRDO** `Applied AI Intern · 2025` |
+| Worked on reconstruction of missing satellite observations using DINEOF (R² = 0.78). Analyzed atmospheric pollution patterns using OMI and Sentinel-5P datasets across India and Indo-Pacific regions. | Built an offline retrieval system using local models, vector search, and reranking for constrained environments. Focused on reliable inference without external connectivity. |
 
 ---
 
-## Experience
+## Projects
 
-**ISRO – NRSC**  
-Research Intern · 2025–2026  
+**[SyncRoute](https://syncroute.vercel.app)** · *syncroute.vercel.app*
 
-Worked on satellite and environmental data analysis.
+> Route-based ride matching using shared road segments instead of destination matching.
 
-- Reconstructed missing Earth observation data using DINEOF  
-- Analyzed atmospheric pollution patterns using Sentinel-5P and OMI datasets  
-- Worked with long-term geospatial datasets across India and Indo-Pacific regions  
+Built a geospatial matching engine using OSRM routing, MongoDB 2dsphere indexing, and real-time tracking. Includes fare computation, OCR onboarding, and WebSocket-based live updates.
 
----
+`React` `Node.js` `MongoDB` `Socket.io` `OSRM` `TypeScript`
 
-**DRDO – DLRL**  
-Applied AI Intern · 2025  
+<br>
 
-Built AI systems in a restricted, offline environment.
+**[Anantha](https://anantha.live)** · *anantha.live*
 
-- Developed an air-gapped retrieval-augmented generation system  
-- Used local models and embeddings with no external API dependencies  
-- Designed retrieval pipeline with LangChain and ChromaDB  
-- Focused on offline inference and constrained deployment workflows  
+> Natural language interface for large-scale oceanographic datasets.
 
----
+Hybrid system combining SQL queries, vector retrieval, and LLM-based reasoning over 23 years of ARGO ocean data (~50GB). Includes anomaly detection and geospatial forecasting components.
 
-## Selected Work
+`FastAPI` `PostgreSQL` `ChromaDB` `LangChain` `GCP`
 
-**SyncRoute**  
-Ride-sharing based on route overlap instead of destination matching.
+<br>
 
-- Geospatial routing engine using OSRM  
-- Spatial indexing with MongoDB 2dsphere  
-- Real-time tracking with WebSockets  
-- OCR-based onboarding system  
+**[LearnityX](https://learnityx.netlify.app)** · *learnityx.netlify.app*
 
-`React` · `Node.js` · `MongoDB` · `TypeScript`
+> Adaptive interview system based on real project experience.
+
+Generates contextual interview questions from resumes instead of static question banks. Uses LLM-based evaluation to adapt difficulty and flow dynamically.
+
+`React` `Firebase` `Gemini API` `Node.js`
 
 ---
 
-**Anantha**  
-Natural language interface for oceanographic data exploration.
+## Stack
 
-- Querying 23 years of ARGO ocean datasets  
-- Hybrid retrieval across SQL + vector search  
-- Geospatial analysis and anomaly detection  
-- Deployed on Google Cloud  
+**Languages**  
+Python · TypeScript · JavaScript · Java · SQL
 
-`FastAPI` · `PostgreSQL` · `ChromaDB` · `LangChain`
+**Frontend**  
+React · Next.js · Tailwind CSS
 
----
+**Backend**  
+Node.js · FastAPI · Flask · Express
 
-**LearnityX**  
-Adaptive interview system based on real project experience.
+**AI & Data**  
+Retrieval systems · LLM applications · ChromaDB · scikit-learn · Pandas · NumPy
 
-- Generates questions from resume context  
-- Evaluates responses using LLM-based scoring  
-- Dynamic interview flow instead of static question banks  
+**Infra**  
+Docker · PostgreSQL · MongoDB · Firebase · Google Cloud
 
-`React` · `Firebase` · `Gemini API` · `Node.js`
-
----
-
-## Interests
-
-```text
-AI systems
-Retrieval-augmented generation
-Geospatial intelligence
-Remote sensing & Earth observation
-Scientific computing
-Backend systems
-Data-intensive applications
-````
+**Geospatial**  
+Google Earth Engine · QGIS · Sentinel-5P · HYSPLIT
 
 ---
 
-## Currently
+## Recognition
 
-Working on systems where:
-
-* data is incomplete
-* constraints are strict
-* correctness matters more than scale
-* and real-world behavior matters more than benchmarks
+| | |
+|---|---|
+| **1st — HackSavvy 2025** · 130+ teams | **2nd — Encode Hackathon 2025** · 85 teams |
+| **Top 5 Dept. Project — SyncRoute** | **Lead — MVSREC Web Initiative** |
 
 ---
 
-## Contact
+## Let’s talk
 
-Portfolio: https://yashwanth.live
-LinkedIn: linkedin.com/in/yashredd
-Email: [ryashwanthreddygari@gmail.com](mailto:ryashwanthreddygari@gmail.com)
+Open to roles in AI/ML engineering, systems development, and applied research.
 
-```
-```
+If you're building systems where correctness, data, or reliability matters — I’d be glad to connect.
+
+**Portfolio:** https://yashwanth.live  
+**LinkedIn:** linkedin.com/in/yashredd  
+**Email:** ryashwanthreddygari@gmail.com
