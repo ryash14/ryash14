@@ -1,40 +1,60 @@
+<div align="center">
+
 # Yashwanth Reddy Reddygari
 
-Applied AI · Scientific Computing · Systems under Constraint
+satellites, retrieval systems, maps, and occasionally web apps
+
+<br>
+
+<a href="https://yashwanth.live">yashwanth.live</a> · <a href="https://linkedin.com/in/yashredd">linkedin</a> · <a href="mailto:ryashwanthreddygari@gmail.com">email</a>
+
+</div>
 
 ---
 
-Most of the problems I find interesting involve something missing — a network connection, a complete satellite pass, reliable ground truth. That constraint shapes the work more than any framework choice does.
+Currently moving between:
 
-**At DRDO (DLRL)** — built an end-to-end RAG system inside an air-gapped facility. No external APIs, no cloud inference. Local models, custom retrieval pipeline, environment-first architecture.
-
-**At ISRO-NRSC** — reconstructed missing oceanographic observations from incomplete satellite data using DINEOF, a matrix factorization technique from climate science. The requirement was physical coherence, not just statistical fill.
+| Research               | Engineering       |
+| ---------------------- | ----------------- |
+| ISRO-NRSC              | DRDO-DLRL         |
+| Satellite observations | Offline RAG       |
+| Atmospheric data       | Local LLMs        |
+| Ocean datasets         | Retrieval systems |
 
 ---
 
-## Work
-
-**Offline RAG System** `DRDO · DLRL`
-Retrieval-augmented generation in a restricted environment with no external connectivity. Every architectural decision was justified against the constraint, not against a benchmark.
-
-**Satellite Observation Reconstruction** `ISRO · NRSC`
-Gap-filling in sea-surface and atmospheric datasets using DINEOF. Sparse inputs, physically meaningful outputs.
+### Selected work
 
 **SyncRoute**
-Route optimization focused on the constraint propagation and scheduling layer — not the graph traversal.
+
+Ride-sharing based on route overlap instead of destination matching.
+
+**Anantha**
+
+A conversational interface over 23 years of oceanographic observations.
 
 **LearnityX**
-Adaptive learning system. The inference architecture is the part worth looking at.
+
+Interviews generated from what you've actually built, not a static question bank.
 
 ---
 
-## On my mind
+### Things I keep coming back to
 
-- Most of what gets called ML engineering is data pipeline work that nobody writes papers about
-- The gap between geospatial ML benchmarks and what real satellite data supports is rarely acknowledged
-- Offline-first AI infrastructure is a design constraint worth building around from day one
-- Retrieval systems should degrade predictably — most don't
+* Retrieval over generation
+* Maps over dashboards
+* Data quality over model complexity
+* Systems that still work when the internet disappears
+* Scientific datasets that were never meant to be user-friendly
 
 ---
 
-[LinkedIn](https://linkedin.com/in/yashwanthreddyreddygari) · [Email](mailto:your@email.com)
+```python
+interests = [
+    "applied_ai",
+    "remote_sensing",
+    "geospatial_systems",
+    "scientific_computing",
+    "backend_engineering"
+]
+```
