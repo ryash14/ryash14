@@ -98,5 +98,5 @@ Open to roles in AI/ML engineering, systems development, and applied research.
 If you're building systems where correctness, data, or reliability matters — I’d be glad to connect.
 
 **Portfolio:** https://yashwanth.live  
-**LinkedIn:** linkedin.com/in/yashredd  
+**LinkedIn:** https://linkedin.com/in/yashredd  
 **Email:** ryashwanthreddygari@gmail.com
