@@ -1,5 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-assets/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-assets/light_mode.svg">
-  <img alt="Yashwanth's terminal-style profile" src="profile-assets/light-mode.svg" width="100%">
-</picture>
+<a href="https://github.com/ryash14/ryash14">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryash14/ryash14/main/dark_mode.svg">
+    <img alt="Yashwanth Reddy Reddygari's GitHub Profile README" src="https://raw.githubusercontent.com/ryash14/ryash14/main/light_mode.svg">
+  </picture>
+</a>
