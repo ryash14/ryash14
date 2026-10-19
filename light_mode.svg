@@ -1,0 +1,234 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="985px" height="584px"
+     viewBox="0 0 985 584"
+     font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono',monospace"
+     font-size="15px">
+
+<style>
+text { fill: #24292f; white-space: pre; }
+.key { fill: #953800; }
+.val { fill: #0550ae; }
+.cc { fill: #656d76; }
+.host { fill: #1a7f37; font-weight: 700; }
+.hd { font-weight: 700; }
+.rule { stroke: #d8dee4; stroke-width: 1; }
+.tree { stroke: #afb8c1; stroke-width: 1.2; stroke-linecap: round; }
+.win { fill: #ffffff; stroke: #d0d7de; stroke-width: 1.2; }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+
+<!-- Background -->
+<rect width="985px" height="584px" fill="#f6f8fa" rx="15"/>
+
+<!-- LEFT: TERMINAL FILE TREE -->
+<g>
+  <rect x="15" y="15" width="300" height="554" rx="10" class="win"/>
+  <line x1="15" y1="49" x2="315" y2="49" class="rule"/>
+
+  <circle cx="35" cy="32" r="5" fill="#ff5f56"/>
+  <circle cx="53" cy="32" r="5" fill="#ffbd2e"/>
+  <circle cx="71" cy="32" r="5" fill="#27c93f"/>
+
+  <text x="165" y="36" class="cc" text-anchor="middle" font-size="12">zsh · ~/yashwanth</text>
+
+  <text x="37" y="77" class="host" textLength="8.8" lengthAdjust="spacing">$</text>
+  <text x="54.6" y="77" textLength="35.2" lengthAdjust="spacing">tree</text>
+  <text x="98.6" y="77" class="key" textLength="96.8" lengthAdjust="spacing">~/yashwanth</text>
+
+  <text x="37" y="97" class="hd" textLength="88" lengthAdjust="spacing">yashwanth/</text>
+  <line x1="42" y1="100" x2="42" y2="432" class="tree"/>
+
+  <line x1="42" y1="112" x2="55" y2="112" class="tree"/>
+  <line x1="64" y1="120" x2="64" y2="172" class="tree"/>
+  <text x="61" y="117" class="key" textLength="52.8" lengthAdjust="spacing">about/</text>
+
+  <line x1="64" y1="132" x2="77" y2="132" class="tree"/>
+  <text x="83" y="137" class="val" textLength="61.6" lengthAdjust="spacing">role.md</text>
+  <line x1="64" y1="152" x2="77" y2="152" class="tree"/>
+  <text x="83" y="157" class="val" textLength="105.6" lengthAdjust="spacing">education.md</text>
+  <line x1="64" y1="172" x2="77" y2="172" class="tree"/>
+  <text x="83" y="177" class="val" textLength="105.6" lengthAdjust="spacing">interests.md</text>
+
+  <line x1="42" y1="192" x2="55" y2="192" class="tree"/>
+  <line x1="64" y1="200" x2="64" y2="252" class="tree"/>
+  <text x="61" y="197" class="key" textLength="96.8" lengthAdjust="spacing">experience/</text>
+
+  <line x1="64" y1="212" x2="77" y2="212" class="tree"/>
+  <text x="83" y="217" class="val" textLength="52.8" lengthAdjust="spacing">ltm.md</text>
+  <line x1="64" y1="232" x2="77" y2="232" class="tree"/>
+  <text x="83" y="237" class="val" textLength="105.6" lengthAdjust="spacing">isro-nrsc.md</text>
+  <line x1="64" y1="252" x2="77" y2="252" class="tree"/>
+  <text x="83" y="257" class="val" textLength="105.6" lengthAdjust="spacing">drdo-dlrl.md</text>
+
+  <line x1="42" y1="272" x2="55" y2="272" class="tree"/>
+  <line x1="64" y1="280" x2="64" y2="412" class="tree"/>
+  <text x="61" y="277" class="key" textLength="79.2" lengthAdjust="spacing">projects/</text>
+
+  <line x1="64" y1="292" x2="77" y2="292" class="tree"/>
+  <text x="83" y="297" class="val" textLength="70.4" lengthAdjust="spacing">Pavan.AI</text>
+  <line x1="64" y1="312" x2="77" y2="312" class="tree"/>
+  <text x="83" y="317" class="val" textLength="61.6" lengthAdjust="spacing">Anantha</text>
+  <line x1="64" y1="332" x2="77" y2="332" class="tree"/>
+  <text x="83" y="337" class="val" textLength="88" lengthAdjust="spacing">SmartDocAI</text>
+  <line x1="64" y1="352" x2="77" y2="352" class="tree"/>
+  <text x="83" y="357" class="val" textLength="79.2" lengthAdjust="spacing">LearnityX</text>
+  <line x1="64" y1="372" x2="77" y2="372" class="tree"/>
+  <text x="83" y="377" class="val" textLength="44" lengthAdjust="spacing">AI-QA</text>
+  <line x1="64" y1="392" x2="77" y2="392" class="tree"/>
+  <text x="83" y="397" class="val" textLength="96.8" lengthAdjust="spacing">Code-Editor</text>
+  <line x1="64" y1="412" x2="77" y2="412" class="tree"/>
+  <text x="83" y="417" class="val" textLength="132" lengthAdjust="spacing">Fake-Product-ID</text>
+
+  <line x1="42" y1="432" x2="55" y2="432" class="tree"/>
+  <line x1="64" y1="440" x2="64" y2="472" class="tree"/>
+  <text x="61" y="437" class="key" textLength="52.8" lengthAdjust="spacing">focus/</text>
+
+  <line x1="64" y1="452" x2="77" y2="452" class="tree"/>
+  <text x="83" y="457" class="val" textLength="88" lengthAdjust="spacing">ai-and-rag</text>
+  <line x1="64" y1="472" x2="77" y2="472" class="tree"/>
+  <text x="83" y="477" class="val" textLength="158.4" lengthAdjust="spacing">gis-and-full-stack</text>
+
+  <text x="37" y="505" class="cc" textLength="202.4" lengthAdjust="spacing">4 directories, 15 files</text>
+  <text x="37" y="535" class="host" textLength="8.8" lengthAdjust="spacing">$</text>
+  <rect x="56.6" y="523" width="8" height="15" fill="#1a7f37" class="cursor"/>
+</g>
+
+<!-- RIGHT: PROFILE -->
+<g>
+  <text x="345" y="36" class="host" textLength="211.2" lengthAdjust="spacing">yashwanth@ryashwanth.dev</text>
+  <line x1="565" y1="31" x2="970" y2="31" class="rule"/>
+
+  <text x="345" y="62" class="cc">. </text>
+  <text x="362.6" y="62" class="key" textLength="35.2" lengthAdjust="spacing">Role</text>
+  <text x="397.8" y="62">:</text>
+  <text x="406.6" y="62" class="cc" textLength="96.8" lengthAdjust="spacing"> ......... </text>
+  <text x="503.4" y="62" class="val" textLength="220" lengthAdjust="spacing">AI Services Trainee @ LTM</text>
+
+  <text x="345" y="82" class="cc">. </text>
+  <text x="362.6" y="82" class="key" textLength="79.2" lengthAdjust="spacing">Education</text>
+  <text x="441.8" y="82">:</text>
+  <text x="450.6" y="82" class="cc" textLength="52.8" lengthAdjust="spacing"> .... </text>
+  <text x="503.4" y="82" class="val" textLength="422.4" lengthAdjust="spacing">B.E. Computer Science · MVSR Engineering College</text>
+
+  <text x="345" y="102" class="cc">. </text>
+  <text x="362.6" y="102" class="key" textLength="70.4" lengthAdjust="spacing">Location</text>
+  <text x="433" y="102">:</text>
+  <text x="441.8" y="102" class="cc" textLength="61.6" lengthAdjust="spacing"> ..... </text>
+  <text x="503.4" y="102" class="val" textLength="44" lengthAdjust="spacing">India</text>
+
+  <text x="345" y="122" class="cc">. </text>
+  <text x="362.6" y="122" class="key" textLength="44" lengthAdjust="spacing">Focus</text>
+  <text x="406.6" y="122">:</text>
+  <text x="415.4" y="122" class="cc" textLength="88" lengthAdjust="spacing"> ........ </text>
+  <text x="503.4" y="122" class="val" textLength="228.8" lengthAdjust="spacing">AI &amp; RAG, GIS &amp; Full-Stack</text>
+
+  <text x="345" y="150" class="hd" textLength="44" lengthAdjust="spacing">Stack</text>
+  <line x1="397.8" y1="145" x2="970" y2="145" class="rule"/>
+
+  <text x="345" y="172" class="cc">. </text>
+  <text x="362.6" y="172" class="key" textLength="79.2" lengthAdjust="spacing">Languages</text>
+  <text x="441.8" y="172">:</text>
+  <text x="450.6" y="172" class="cc" textLength="52.8" lengthAdjust="spacing"> .... </text>
+  <text x="503.4" y="172" class="val" textLength="246.4" lengthAdjust="spacing">Python, JavaScript, C++, SQL</text>
+
+  <text x="345" y="192" class="cc">. </text>
+  <text x="362.6" y="192" class="key" textLength="61.6" lengthAdjust="spacing">Backend</text>
+  <text x="424.2" y="192">:</text>
+  <text x="433" y="192" class="cc" textLength="70.4" lengthAdjust="spacing"> ...... </text>
+  <text x="503.4" y="192" class="val" textLength="246.4" lengthAdjust="spacing">FastAPI, Node.js, PostgreSQL</text>
+
+  <text x="345" y="212" class="cc">. </text>
+  <text x="362.6" y="212" class="key" textLength="17.6" lengthAdjust="spacing">AI</text>
+  <text x="380.2" y="212">:</text>
+  <text x="389" y="212" class="cc" textLength="114.4" lengthAdjust="spacing"> ........... </text>
+  <text x="503.4" y="212" class="val" textLength="272.8" lengthAdjust="spacing">RAG, LLMs, LangChain, LangGraph</text>
+
+  <text x="345" y="232" class="cc">. </text>
+  <text x="362.6" y="232" class="key" textLength="70.4" lengthAdjust="spacing">Frontend</text>
+  <text x="433" y="232">:</text>
+  <text x="441.8" y="232" class="cc" textLength="61.6" lengthAdjust="spacing"> ..... </text>
+  <text x="503.4" y="232" class="val" textLength="140.8" lengthAdjust="spacing">React, HTML, CSS</text>
+
+  <text x="345" y="252" class="cc">. </text>
+  <text x="362.6" y="252" class="key" textLength="70.4" lengthAdjust="spacing">Research</text>
+  <text x="433" y="252">:</text>
+  <text x="441.8" y="252" class="cc" textLength="61.6" lengthAdjust="spacing"> ..... </text>
+  <text x="503.4" y="252" class="val" textLength="167.2" lengthAdjust="spacing">GIS, Remote Sensing</text>
+
+  <text x="345" y="280" class="hd" textLength="88" lengthAdjust="spacing">Experience</text>
+  <line x1="441.8" y1="275" x2="970" y2="275" class="rule"/>
+
+  <text x="345" y="302" class="cc">. </text>
+  <text x="362.6" y="302" class="key" textLength="26.4" lengthAdjust="spacing">LTM</text>
+  <text x="389" y="302">:</text>
+  <text x="397.8" y="302" class="cc" textLength="105.6" lengthAdjust="spacing"> .......... </text>
+  <text x="503.4" y="302" class="val" textLength="246.4" lengthAdjust="spacing">AI Services · Aug 2026 – Now</text>
+
+  <text x="345" y="322" class="cc">. </text>
+  <text x="362.6" y="322" class="key" textLength="79.2" lengthAdjust="spacing">ISRO NRSC</text>
+  <text x="441.8" y="322">:</text>
+  <text x="450.6" y="322" class="cc" textLength="52.8" lengthAdjust="spacing"> .... </text>
+  <text x="503.4" y="322" class="val" textLength="264" lengthAdjust="spacing">Research · Nov 2025 – May 2026</text>
+
+  <text x="345" y="342" class="cc">. </text>
+  <text x="362.6" y="342" class="key" textLength="79.2" lengthAdjust="spacing">DRDO DLRL</text>
+  <text x="441.8" y="342">:</text>
+  <text x="450.6" y="342" class="cc" textLength="52.8" lengthAdjust="spacing"> .... </text>
+  <text x="503.4" y="342" class="val" textLength="246.4" lengthAdjust="spacing">AI Research · May – Jul 2025</text>
+
+  <text x="345" y="370" class="hd" textLength="61.6" lengthAdjust="spacing">Contact</text>
+  <line x1="415.4" y1="365" x2="970" y2="365" class="rule"/>
+
+  <text x="345" y="392" class="cc">. </text>
+  <text x="362.6" y="392" class="key" textLength="44" lengthAdjust="spacing">Email</text>
+  <text x="406.6" y="392">:</text>
+  <text x="415.4" y="392" class="cc" textLength="88" lengthAdjust="spacing"> ........ </text>
+  <text x="503.4" y="392" class="val" textLength="193.6" lengthAdjust="spacing">contact@ryashwanth.dev</text>
+
+  <text x="345" y="412" class="cc">. </text>
+  <text x="362.6" y="412" class="key" textLength="44" lengthAdjust="spacing">Gmail</text>
+  <text x="406.6" y="412">:</text>
+  <text x="415.4" y="412" class="cc" textLength="88" lengthAdjust="spacing"> ........ </text>
+  <text x="503.4" y="412" class="val" textLength="255.2" lengthAdjust="spacing">ryashwanthreddygari@gmail.com</text>
+
+  <text x="345" y="432" class="cc">. </text>
+  <text x="362.6" y="432" class="key" textLength="70.4" lengthAdjust="spacing">LinkedIn</text>
+  <text x="433" y="432">:</text>
+  <text x="441.8" y="432" class="cc" textLength="61.6" lengthAdjust="spacing"> ..... </text>
+  <text x="503.4" y="432" class="val" textLength="202.4" lengthAdjust="spacing">linkedin.com/in/ryash14</text>
+
+  <text x="345" y="452" class="cc">. </text>
+  <text x="362.6" y="452" class="key" textLength="79.2" lengthAdjust="spacing">Portfolio</text>
+  <text x="441.8" y="452">:</text>
+  <text x="450.6" y="452" class="cc" textLength="52.8" lengthAdjust="spacing"> .... </text>
+  <text x="503.4" y="452" class="val" textLength="123.2" lengthAdjust="spacing">ryashwanth.dev</text>
+
+  <text x="345" y="480" class="hd" textLength="88" lengthAdjust="spacing">Highlights</text>
+  <line x1="441.8" y1="475" x2="970" y2="475" class="rule"/>
+
+  <text x="345" y="502" class="cc">. </text>
+  <text x="362.6" y="502" class="key" textLength="88" lengthAdjust="spacing">Hackathons</text>
+  <text x="450.6" y="502">:</text>
+  <text x="459.4" y="502" class="cc" textLength="44" lengthAdjust="spacing"> ... </text>
+  <text x="503.4" y="502" class="val" textLength="413.6" lengthAdjust="spacing">4× winner · 1st HackSavvy 2025, 2nd Encode 2025</text>
+
+  <text x="345" y="522" class="cc">. </text>
+  <text x="362.6" y="522" class="key" textLength="26.4" lengthAdjust="spacing">Led</text>
+  <text x="389" y="522">:</text>
+  <text x="397.8" y="522" class="cc" textLength="105.6" lengthAdjust="spacing"> .......... </text>
+  <text x="503.4" y="522" class="val" textLength="237.6" lengthAdjust="spacing">MVSREC web development team</text>
+
+  <!-- Palette -->
+  <rect x="345" y="544" width="18" height="10" rx="2" fill="#cf222e"/>
+  <rect x="367" y="544" width="18" height="10" rx="2" fill="#bc4c00"/>
+  <rect x="389" y="544" width="18" height="10" rx="2" fill="#9a6700"/>
+  <rect x="411" y="544" width="18" height="10" rx="2" fill="#1a7f37"/>
+  <rect x="433" y="544" width="18" height="10" rx="2" fill="#0f766e"/>
+  <rect x="455" y="544" width="18" height="10" rx="2" fill="#0969da"/>
+  <rect x="477" y="544" width="18" height="10" rx="2" fill="#8250df"/>
+  <rect x="499" y="544" width="18" height="10" rx="2" fill="#656d76"/>
+</g>
+</svg>
