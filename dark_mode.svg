@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="985px" height="530px"
+     viewBox="0 0 985 530"
+     font-family="ConsolasFallback,Consolas,monospace"
+     font-size="16px">
+
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.addColor { fill: #3fb950; }
+.cc { fill: #616e7f; }
+.heading { fill: #c9d1d9; font-weight: bold; }
+text, tspan { white-space: pre; }
+</style>
+
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<!-- LEFT: TERMINAL DIRECTORY TREE -->
+<text x="15" y="30" fill="#c9d1d9">
+  <tspan x="15" y="30" fill="#3fb950">yashwanth@dev</tspan>
+  <tspan x="15" y="50" class="cc">------------------------------</tspan>
+
+  <tspan x="15" y="90" class="key">~/about-me</tspan>
+  <tspan x="15" y="110" class="value">├── role.md</tspan>
+  <tspan x="15" y="130" class="value">├── education.md</tspan>
+  <tspan x="15" y="150" class="value">└── interests.md</tspan>
+
+  <tspan x="15" y="190" class="key">~/experience</tspan>
+  <tspan x="15" y="210" class="value">├── ltm.md</tspan>
+  <tspan x="15" y="230" class="value">├── isro-nrsc.md</tspan>
+  <tspan x="15" y="250" class="value">└── drdo-dlrl.md</tspan>
+
+  <tspan x="15" y="290" class="key">~/projects</tspan>
+  <tspan x="15" y="310" class="value">├── Pavan.AI</tspan>
+  <tspan x="15" y="330" class="value">├── Anantha</tspan>
+  <tspan x="15" y="350" class="value">├── SmartDocAI</tspan>
+  <tspan x="15" y="370" class="value">├── LearnityX</tspan>
+  <tspan x="15" y="390" class="value">├── AI-QA</tspan>
+  <tspan x="15" y="410" class="value">├── Code-Editor</tspan>
+  <tspan x="15" y="430" class="value">└── Fake-Product-ID</tspan>
+
+  <tspan x="15" y="470" class="key">~/focus</tspan>
+  <tspan x="15" y="490" class="value">├── AI &amp; RAG</tspan>
+  <tspan x="15" y="510" class="value">└── GIS &amp; Full-Stack</tspan>
+</text>
+
+<!-- RIGHT: PROFILE DETAILS -->
+<text x="390" y="30" fill="#c9d1d9">
+  <tspan x="390" y="30" fill="#3fb950">yashwanth@ryashwanth.dev</tspan>
+  <tspan x="390" y="50" class="cc">————————————————————————————————————————————</tspan>
+
+  <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">AI Services Trainee @ LTM</tspan>
+  <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">B.E. Computer Science</tspan>
+  <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">College</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">MVSR Engineering College</tspan>
+  <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">India</tspan>
+
+  <tspan x="390" y="150" class="cc">. </tspan>
+  <tspan x="390" y="170" class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, C++, SQL</tspan>
+  <tspan x="390" y="190" class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">FastAPI, Node.js, PostgreSQL</tspan>
+  <tspan x="390" y="210" class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">RAG, LLMs, LangChain, LangGraph</tspan>
+  <tspan x="390" y="230" class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, HTML, CSS</tspan>
+  <tspan x="390" y="250" class="key">Research</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">GIS, Remote Sensing</tspan>
+
+  <tspan x="390" y="270" class="cc">. </tspan>
+  <tspan x="390" y="290">- Experience ————————————————————————————————</tspan>
+  <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">LTM</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">AI Services · Aug 2026–Now</tspan>
+  <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">ISRO NRSC</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Research · Nov 2025–May 2026</tspan>
+  <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">DRDO DLRL</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AI Research · May–Jul 2025</tspan>
+
+  <tspan x="390" y="370">- Contact ———————————————————————————————————</tspan>
+  <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">contact@ryashwanth.dev</tspan>
+  <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Email 2</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">ryashwanthreddygari@gmail.com</tspan>
+  <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">linkedin.com/in/ryash14</tspan>
+  <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">ryashwanth.dev</tspan>
+
+  <tspan x="390" y="470">- Highlights ———————————————————————————————</tspan>
+  <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Research</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">ISRO · DRDO</tspan>
+  <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Achievements</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">4× Hackathon Winner</tspan>
+</text>
+</svg>
