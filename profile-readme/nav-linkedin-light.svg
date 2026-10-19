@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="27" viewBox="0 0 73 27">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;fill:#1f2328}
+.u{stroke-dasharray:1;stroke-dashoffset:1;animation:d 4.2s ease-in-out 0.8s infinite}
+@keyframes d{0%{stroke-dashoffset:1;opacity:1}30%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+</style>
+<text x="3" y="16" textLength="67" lengthAdjust="spacing">linkedin</text>
+<path d="M3 21 Q 9.1 18 18.2 21 T 36.5 21 T 54.8 21 T 70 21" pathLength="1" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" class="u"/>
+</svg>

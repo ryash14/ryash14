@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="27" viewBox="0 0 81 27">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;fill:#1f2328}
+.u{stroke-dasharray:1;stroke-dashoffset:1;animation:d 4.2s ease-in-out 0s infinite}
+@keyframes d{0%{stroke-dashoffset:1;opacity:1}30%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+</style>
+<text x="3" y="16" textLength="75" lengthAdjust="spacing">portfolio</text>
+<path d="M3 21 Q 10.1 18 20.2 21 T 40.5 21 T 60.8 21 T 78 21" pathLength="1" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" class="u"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="25" viewBox="0 0 49 25">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;fill:#e6edf3}
+.u{stroke-dasharray:1;stroke-dashoffset:1;animation:d 4.2s ease-in-out 0.3s infinite}
+@keyframes d{0%{stroke-dashoffset:1;opacity:1}30%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+</style>
+<text x="3" y="14" textLength="43" lengthAdjust="spacing">[live]</text>
+<path d="M3 19 Q 6.1 16 12.2 19 T 24.5 19 T 36.8 19 T 46 19" pathLength="1" fill="none" stroke="#fb923c" stroke-width="2" stroke-linecap="round" class="u"/>
+</svg>

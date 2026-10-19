@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="27" viewBox="0 0 48 27">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;fill:#e6edf3}
+.u{stroke-dasharray:1;stroke-dashoffset:1;animation:d 4.2s ease-in-out 0.4s infinite}
+@keyframes d{0%{stroke-dashoffset:1;opacity:1}30%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+</style>
+<text x="3" y="16" textLength="42" lengthAdjust="spacing">email</text>
+<path d="M3 21 Q 6.0 18 12.0 21 T 24.0 21 T 36.0 21 T 45 21" pathLength="1" fill="none" stroke="#fb923c" stroke-width="2" stroke-linecap="round" class="u"/>
+</svg>
