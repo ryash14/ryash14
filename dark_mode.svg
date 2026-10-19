@@ -94,7 +94,7 @@ text{fill:#c9d1d9;white-space:pre}
 <text x="362.6" y="122" class="key" textLength="44.0" lengthAdjust="spacing">Focus</text>
 <text x="406.6" y="122" textLength="8.8" lengthAdjust="spacing">:</text>
 <text x="415.4" y="122" class="cc" textLength="88.0" lengthAdjust="spacing"> ........ </text>
-<text x="503.4" y="122" class="val" textLength="228.8" lengthAdjust="spacing">AI &amp; RAG, GIS &amp; Full-Stack</text>
+<text x="503.4" y="122" class="val" textLength="228.8" lengthAdjust="spacing">AI &amp; RAG, MLOps &amp; Full-Stack</text>
 <text x="345.0" y="150" class="hd" textLength="44.0" lengthAdjust="spacing">Stack</text>
 <line x1="397.8" y1="145" x2="970" y2="145" class="rule"/>
 <text x="345.0" y="172" class="cc" textLength="17.6" lengthAdjust="spacing">. </text>
